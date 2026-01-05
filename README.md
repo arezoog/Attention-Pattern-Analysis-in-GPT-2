@@ -20,7 +20,7 @@ Using TransformerLens, I visualize attention heads in GPT-2 to identify:
 
 ## Findings
 
-## 🧠 Mechanistic Interpretability Findings
+##  Mechanistic Interpretability Findings
 
 ### Attention Pattern Analysis
 
